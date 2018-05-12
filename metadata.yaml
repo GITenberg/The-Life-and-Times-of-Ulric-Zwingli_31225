@@ -1,0 +1,36 @@
+_repo: The-Life-and-Times-of-Ulric-Zwingli_31225
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Porter, Thomas C. (Thomas Conrad)
+    alias: Porter, T. C. (Thomas Conrad)
+    birthdate: 1822
+    deathdate: 1901
+    gutenberg_agent_id: '35113'
+    url: http://www.gutenberg.org/2009/agents/35113
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hottinger, Johann Jakob
+    alias: Hottinger, J. J. (Johann Jakob)
+    birthdate: 1783
+    deathdate: 1860
+    gutenberg_agent_id: '35112'
+    url: http://www.gutenberg.org/2009/agents/35112
+description: ''
+gutenberg_issued: '2010-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31225'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zwingli, Ulrich, 1484-1531'
+- !lcsh 'Reformation -- Switzerland'
+- !lcc 'BR'
+title: The Life and Times of Ulric Zwingli
+url: http://www.gutenberg.org/ebooks/31225
